@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ## Copyright
 
 2017 Git
+And some other stuff
